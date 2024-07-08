@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# D2LLM
-=======
 # D2LLM: Decomposed and Distilled Large Language Models for Semantic Search
 
 This is the Pytorch implementation of D2LLM in the ACL'24 paper: D2LLM: Decomposed and Distilled Large Language Models for Semantic Search.
@@ -75,4 +72,3 @@ Evaluation can be done throw the mteb tools. Note that the cosine similarity sho
     booktitle={The 62nd Annual Meeting of the Association for Computational Linguistics},
     year={2024}
     }
->>>>>>> init
